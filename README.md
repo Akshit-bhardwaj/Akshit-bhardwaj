@@ -30,8 +30,8 @@
 ---
 
 ### 📫 How to reach me:
-- Email: [akshitbhardwaj@example.com](mailto:akshitbhardwaj@example.com)
-- LinkedIn: [linkedin.com/in/akshitbhardwaj](https://www.linkedin.com/in/akshitbhardwaj)
+- Email: akshitbhardwaj2424@gmail.com
+- LinkedIn: https://www.linkedin.com/in/akshit-bhardwaj-0491a6260/
 
 ---
 

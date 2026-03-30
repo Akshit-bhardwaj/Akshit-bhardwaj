@@ -47,8 +47,7 @@
 ---
 
 ## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Akshit-bhardwaj&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshit-bhardwaj&show_icons=true)
 ---
 
 ## 🔥 Projects
